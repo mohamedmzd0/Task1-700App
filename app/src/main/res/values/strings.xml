@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="back">رجوع</string>
+    <string name="complet_data">اكمل بياناتك الشخصيه</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="address_hint">مصر</string>
+    <string name="statues_hint">الحاله الاجتماعيه</string>
+    <string name="statues_hint2">متزوج</string>
+    <string name="date_hint">تاريخ الزواج</string>
+    <string name="county_hint">الدوله</string>
+    <string name="_6">يحتوي علي حروف وراقام ( لا تقل عن 6 )</string>
+    <string name="city">المدينه</string>
+    <string name="address">العنوان</string>
+    <string name="accept">اوافق علي الشروط و الاحكام</string>
+    <string name="register_new">تسجيل حساب جديد</string>
+    <string name="toast_success">date Stored In Firebase RealtimeDatebase</string>
+    <string name="toast_fail">no connection</string>
+</resources>
